@@ -1,0 +1,27 @@
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: deeppink;
+}
+
+.moose {
+    width: 600px;
+    height: 600px;
+}
+
+.cat {
+    width: 600px;
+    height: 600px;
+}
